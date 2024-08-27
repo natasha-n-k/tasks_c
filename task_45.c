@@ -9,7 +9,6 @@
 int main() {
     int s, original, reversed = 0;
     
-    // Ввод числа
     if(scanf("%d", &s) != 1) {
         return 0;
     }
